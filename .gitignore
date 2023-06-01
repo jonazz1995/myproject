@@ -1,5 +1,12 @@
 /.DS_Store
 /.pytest_cache
 /.vscode
-/venv
-__pycache__
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+
+# SQLite database files
+
+*.sqlite3
